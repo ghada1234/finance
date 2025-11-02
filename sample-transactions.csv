@@ -1,0 +1,27 @@
+type,category,amount,description,date
+expense,food,45.50,Grocery shopping at Whole Foods,2024-01-15
+expense,transport,18.00,Uber ride to office,2024-01-15
+income,salary,5000.00,Monthly salary payment,2024-01-01
+expense,utilities,120.00,Electricity bill,2024-01-10
+expense,food,25.00,Lunch at restaurant,2024-01-16
+expense,entertainment,50.00,Movie tickets and snacks,2024-01-16
+expense,shopping,89.99,New shoes,2024-01-17
+income,freelance,750.00,Website design project,2024-01-18
+expense,transport,45.00,Gas for car,2024-01-19
+expense,food,12.50,Coffee and breakfast,2024-01-20
+expense,healthcare,60.00,Pharmacy prescription,2024-01-20
+expense,food,35.00,Dinner at Italian restaurant,2024-01-21
+expense,utilities,80.00,Internet bill,2024-01-21
+expense,shopping,150.00,Clothing store,2024-01-22
+expense,food,8.50,Quick lunch,2024-01-22
+income,investment,200.00,Dividend payment,2024-01-23
+expense,entertainment,25.00,Spotify subscription,2024-01-23
+expense,food,55.00,Dinner with friends,2024-01-24
+expense,transport,22.00,Uber to airport,2024-01-25
+expense,food,95.00,Groceries for the week,2024-01-26
+expense,education,49.99,Online course subscription,2024-01-27
+expense,food,18.00,Takeout dinner,2024-01-28
+expense,shopping,30.00,Books from bookstore,2024-01-28
+expense,food,42.00,Brunch on Sunday,2024-01-29
+expense,utilities,45.00,Water bill,2024-01-30
+
